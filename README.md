@@ -1,6 +1,8 @@
 # sexinsex.net
 SEXINSEX 色中色 最新域名 和 IP地址 投诉举报用
 
+# 关于悬赏 SEXINSEX犯罪集团 所有运营团队成员个人信息 netpolice@bj.cyberpolice.cn      
+
 ## 📄 投诉举报模板（适用于电邮或在线表单）
 
 你可以根据具体举报平台（如加拿大网络安全机构、中国12377、美国IC3等）调整格式和语言。
@@ -51,6 +53,8 @@ SEXINSEX 色中色 最新域名 和 IP地址 投诉举报用
 | 中国大陆 | 12377 举报中心 | [https://www.12377.cn](https://www.12377.cn) |
 | 美国 | IC3 网络犯罪中心 | [https://www.ic3.gov](https://www.ic3.gov) |
 | 全球 | Google Safe Browsing | [https://safebrowsing.google.com](https://safebrowsing.google.com) |
+
+![sample](./t.jpg)
 
 ---
 
