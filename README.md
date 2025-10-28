@@ -56,7 +56,7 @@ SEXINSEX 色中色 最新域名 和 IP地址 投诉举报用
 
 ## 📂 域名与IP清单
 
-请参考 [`domain-ip-list.txt`](./domain-ip-list.txt) 文件，包含已整理的可疑域名与IP地址。
+请参考 [`domain_ip_list.txt`](./domain_ip_list.txt) 文件，包含已整理的可疑域名与IP地址。
 
 ---
 
